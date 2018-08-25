@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/bin/bash
 echo -e '\e[m';clear
 
 for i in {30..37};do
